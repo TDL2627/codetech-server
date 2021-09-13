@@ -1,0 +1,26 @@
+{
+  "name": "users-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "",
+    "cors": "^2.8.5",
+    "express": "",
+    "express-validator": "^6.12.1",
+    "firebase-admin": "^9.9.0",
+    "googleapis": "^78.0.0",
+    "nodemon": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.thedigitalacademy.co.za/philippi/sprint-2/firebase-express-groups/users-admin-expresstech.git"
+  },
+  "description": ""
+}
